@@ -35,3 +35,7 @@ https://matychowiak-pl.github.io/gravix-tires-wheels/
 
 ## Important
 Product names, prices, reviews, sizes, fitment information, specifications, availability, warranties, installation services and commercial policies may be demonstration content. Verify actual manufacturer data, tire/wheel compatibility, load and speed ratings, clearances, TPMS compatibility, safety information, pricing, shipping, returns and asset rights before commercial publication.
+
+
+## V2 Image Correction
+Replaced product and category screenshot-fragment imagery with dedicated automotive photography, centered inside the appropriate frames and refreshed the hero, fitment, and package visuals.

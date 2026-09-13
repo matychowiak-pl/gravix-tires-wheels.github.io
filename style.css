@@ -17,3 +17,26 @@
 .page{background:#090c0f;min-height:60vh;padding:36px 4%}.page-title{font-size:43px;font-style:italic;text-transform:uppercase}.toolbar{display:flex;gap:7px;background:#11171c;padding:9px;border:1px solid #293138;margin:14px 0}.toolbar input,.toolbar select{padding:9px;border:0;font-size:8px}.detail{display:grid;grid-template-columns:1fr 1fr;gap:24px}.detail-photo{background:#f2f4f4;min-height:570px;display:flex;align-items:center;justify-content:center}.detail-photo img{width:100%;height:570px;object-fit:contain;padding:25px}.detail-info h1{font-size:42px;font-style:italic}.detail-price{font-size:27px;font-weight:900;color:var(--red);margin:9px 0}.specs{display:grid;grid-template-columns:1fr 1fr;gap:7px;margin:16px 0}.spec{background:#12181d;border:1px solid #2d353c;padding:9px}.spec small{display:block;color:#8c969d;font-size:7px}.spec strong{font-size:9px}.toast{position:fixed;right:14px;bottom:14px;background:#12191e;color:#fff;border-left:3px solid var(--red);padding:10px 12px;font-size:8px;opacity:0;transform:translateY(8px);transition:.2s;z-index:50}.toast.show{opacity:1;transform:translateY(0)}
 @media(max-width:1150px){.grid{grid-template-columns:repeat(4,1fr)}.cats{grid-template-columns:repeat(5,1fr)}.footgrid{grid-template-columns:repeat(3,1fr)}}
 @media(max-width:760px){.topbar{display:none}.head{grid-template-columns:1fr}.logo{display:flex;justify-content:center}.actions{justify-content:center}.hero{min-height:500px}.hero h1{font-size:50px}.benefits{grid-template-columns:1fr 1fr}.cats{grid-template-columns:repeat(3,1fr)}.split,.package-banner,.support,.detail{grid-template-columns:1fr}.grid{grid-template-columns:repeat(2,1fr)}.footgrid{grid-template-columns:1fr 1fr}.bottom span{float:none;display:block;margin-top:4px}}
+
+/* V2 IMAGE REBUILD — no nested screenshots in cards */
+.card .pic{
+  height:225px;
+  background:#edf0f1;
+  display:flex;
+  align-items:center;
+  justify-content:center;
+  overflow:hidden;
+}
+.card .pic img{
+  width:100%;
+  height:100%;
+  object-fit:contain;
+  object-position:center center;
+  padding:7px;
+  display:block;
+}
+.cat img{
+  object-fit:cover;
+  object-position:center center;
+}
+.hero{background-position:center center}
