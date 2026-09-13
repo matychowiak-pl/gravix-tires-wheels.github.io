@@ -1,0 +1,9 @@
+{
+  "name": "GRAVIX Tires & Wheels",
+  "short_name": "GRAVIX",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "theme_color": "#07090b",
+  "background_color": "#f4f5f6",
+  "icons": []
+}
