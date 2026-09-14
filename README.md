@@ -43,3 +43,7 @@ Replaced product and category screenshot-fragment imagery with dedicated automot
 
 ## V3 Image System
 All storefront product imagery is now based on dedicated square automotive photography with centered containment, replacing embedded webpage/screenshot fragments. Category, fitment, package, and featured-product visuals were normalized to the same visual system.
+
+
+## V4 Image Correction
+Rebuilt the visible storefront photography using dedicated automotive images and centered containment. Product cards no longer rely on screenshots or nested webpage fragments; category and hero imagery were also refreshed.
