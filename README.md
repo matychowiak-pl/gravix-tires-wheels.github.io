@@ -39,3 +39,7 @@ Product names, prices, reviews, sizes, fitment information, specifications, avai
 
 ## V2 Image Correction
 Replaced product and category screenshot-fragment imagery with dedicated automotive photography, centered inside the appropriate frames and refreshed the hero, fitment, and package visuals.
+
+
+## V3 Image System
+All storefront product imagery is now based on dedicated square automotive photography with centered containment, replacing embedded webpage/screenshot fragments. Category, fitment, package, and featured-product visuals were normalized to the same visual system.
